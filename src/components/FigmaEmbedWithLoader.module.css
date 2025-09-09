@@ -1,0 +1,43 @@
+.rippleEffect {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.rippleEffect::before,
+.rippleEffect::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.13);
+  transform: translate(-50%, -50%) scale(0.7);
+  opacity: 0.7;
+  animation: ripple 2.8s cubic-bezier(0.4,0,0.2,1) infinite;
+}
+
+.rippleEffect::after {
+  animation-delay: 1.4s;
+}
+
+@keyframes ripple {
+  0% {
+    transform: translate(-50%, -50%) scale(0.7);
+    opacity: 0.7;
+  }
+  70% {
+    opacity: 0.15;
+  }
+  100% {
+    transform: translate(-50%, -50%) scale(4.5);
+    opacity: 0;
+  }
+} 

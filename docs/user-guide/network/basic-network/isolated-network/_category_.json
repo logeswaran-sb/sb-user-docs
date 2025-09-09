@@ -1,0 +1,10 @@
+{
+    "position": 1,
+    "label": "Isolated Network",
+    "collapsible": true,
+    "collapsed": true,
+    "link": {
+      "type": "generated-index",
+      "title": "Isolated Network"
+    }
+}

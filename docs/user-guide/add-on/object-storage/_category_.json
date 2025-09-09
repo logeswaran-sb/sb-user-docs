@@ -1,0 +1,10 @@
+{
+    "position": 1,
+    "label": "Object Storage",
+    "collapsible": true,
+    "collapsed": true,
+    "link": {
+      "type": "generated-index",
+      "title": "Object Storage"
+    }
+}

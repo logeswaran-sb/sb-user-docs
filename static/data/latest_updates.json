@@ -1,0 +1,17 @@
+[
+  {
+    "date": "15 January 2025",
+    "description":[ "Object Storage as a Service added under the Addon section.",
+      "Fixed billing / Bundle package option introduced during VM launch for simplified pricing.",
+      "KYC Verification process added for new user signups to ensure secure access.",
+      "Stripe Payment Gateway integrated for seamless and secure transactions."]
+  },
+  {
+    "date": "01 January 2023",
+    "description": "CloudPortal CMP has released a new plugin that provides Kubernetes as a service. This plugin offers an easy and efficient way to manage Kubernetes clusters, simplifying the deployment, scaling, and management of containerized applications."
+  },
+  {
+    "date": "6 August 2022",
+    "description": "CloudPortal 3.01 which has been comes up with various updates like ACS 4.16 upgrade and compatibility verification in CloudPortal, VM setting integration, Advanced monitoring auto upgrade and much more"
+  }
+]

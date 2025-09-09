@@ -1,0 +1,10 @@
+{
+    "position": 2,
+    "label": "L2 Network",
+    "collapsible": true,
+    "collapsed": true,
+    "link": {
+      "type": "generated-index",
+      "title": "L2 Network"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "position": 3,
+    "label": "Launching Windows VM",
+    "collapsible": true,
+    "collapsed": true,
+    "link": {
+      "type": "generated-index",
+      "title": "Launching Windows VM"
+    }
+}

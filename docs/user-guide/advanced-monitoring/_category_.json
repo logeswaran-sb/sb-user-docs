@@ -1,0 +1,10 @@
+{
+    "position": 14,
+    "label": "Advanced Monitoring",
+    "collapsible": true,
+    "collapsed": true,
+    "link": {
+      "type": "generated-index",
+      "title": "Advanced Monitoring"
+    }
+}

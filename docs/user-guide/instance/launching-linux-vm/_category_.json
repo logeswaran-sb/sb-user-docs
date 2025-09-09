@@ -1,0 +1,10 @@
+{
+    "position": 5,
+    "label": "Launching Linux VM",
+    "collapsible": true,
+    "collapsed": true,
+    "link": {
+      "type": "generated-index",
+      "title": "Launching Linux VM"
+    }
+}

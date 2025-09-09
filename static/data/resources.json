@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Getting Started",
+        "img": "/icons/getting-started-46x46.png",
+        "link": "/docs/user-guide/getting-started",
+        "description": "Start your cloud journey with CloudPortal CMP"
+      },
+      {
+        "title": "Virtual Resources",
+        "img": "/icons/virtual-resource-46x46.png",
+        "link": "/docs/category/instance",
+        "description": "CloudPortal Virtual resources are flexible, scalable, and accessible on-demand, typically hosted in Apache CloudStack environments."
+      },
+      {
+        "title": "Storage",
+        "img": "/icons/storage-46x46.png",
+        "link": "/docs/category/volumes",
+        "description": "CloudPortal Storage refers to the capacity to store and retain data, either temporarily or permanently."
+      },
+      {
+        "title": "Volume Snapshot",
+        "img": "/icons/volume-snapshot-46x46.png",
+        "link": "/docs/category/volume-snapshot",
+        "description": "CloudPortal Volume Snapshot, also known as a point-in-time snapshot, is a backup copy of a storage volume taken at a specific moment in time."
+      },
+      {
+        "title": "Vm Snapshot",
+        "img": "/icons/vm-snapshot-46x46.png",
+        "link": "/docs/category/vm-snapshot",
+        "description": "CloudPortal VM Snapshot is a backup of a virtual machine's current state, including its memory, settings, and disk contents."
+      },
+      {
+        "title": "Auto Scaling",
+        "img": "/icons/autoscaling-46x46.png",
+        "link": "/docs/category/native-autoscale",
+        "description": "CloudPortal's Autoscaling allows resources to automatically increase or decrease based on the demand. "
+      },
+      {
+        "title": "Marketplace",
+        "img": "/icons/market-place-46x46.png",
+        "link": "/docs/category/apps-marketplace",
+        "description": "CloudPortal Marketplace provides access to a range of pre-built software applications and services."
+      },
+      {
+        "title": "Networks",
+        "img": "/icons/network-46x46.png",
+        "link": "/docs/category/network",
+        "description": "CloudPortal network enables data transfer and communication between computers, servers, and other devices."
+      },
+      {
+        "title": "Billing",
+        "img": "/icons/billing-46x46.png",
+        "link": "/docs/category/billing",
+        "description": "CloudPortal is a cloud billing platform that enables to offer their customers the convenience of paying in their preferred currency"
+      }
+]

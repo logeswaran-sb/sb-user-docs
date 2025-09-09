@@ -1,0 +1,12 @@
+.latestUpdates {
+  padding: 35px 0px 0px 10px;
+}
+
+.latestUpdates div {
+  padding-top: 20px;
+}
+
+.latestUpdates li {
+  line-height: 34px;
+  font-size: 16px;
+}

@@ -1,0 +1,10 @@
+{
+    "position": 2,
+    "label": "SFS Service",
+    "collapsible": true,
+    "collapsed": true,
+    "link": {
+      "type": "generated-index",
+      "title": "SFS Service"
+    }
+}

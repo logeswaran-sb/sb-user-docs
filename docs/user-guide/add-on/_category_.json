@@ -1,0 +1,10 @@
+{
+    "position": 15,
+    "label": "Add-on",
+    "collapsible": true,
+    "collapsed": true,
+    "link": {
+      "type": "generated-index",
+      "title": "Add-on"
+    }
+}

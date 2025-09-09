@@ -1,0 +1,23 @@
+.mostViewdDocs {
+  background-image: url("/cloudportal-features.png");
+  background-size: cover;
+  padding: 40px 40px 0px 40px;
+  border-bottom: 1px solid #0069ff;
+  margin-top: 40px;
+}
+
+.mostViewdDocs ul {
+  list-style-type: square;
+}
+
+.mostViewdDocs ul li {
+  padding-bottom: 25px;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 25spx;
+}
+
+.mostViewdDocs ul li {
+  transition: color .15s ease;
+  color: #0069ff;
+}

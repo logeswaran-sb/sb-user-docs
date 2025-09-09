@@ -1,0 +1,52 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.sbFeatures {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0px auto;
+  padding-left: 10px;
+  padding-top: 30px;
+}
+
+.featureBox {
+  width: 333px;
+  padding: 20px 20px;
+  margin: 15px 15px 0px 0px;
+  border: 1px solid rgba(3,27,78,.1);
+  border-radius: 3px;
+  flex-grow: 1;
+  cursor: pointer;
+  box-shadow: rgba(3,27,78,.1) 0px 3px 8px;
+  margin-bottom: 5px;
+  border-bottom: 1px solid #0069ff;
+}
+
+
+.featureBox:hover {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.sbCardTitle {
+  color: #0069ff;
+  font-size: 18px;
+  font-weight: 600;
+  display: flex;
+}
+
+.sbCardTitle span {
+  top: 12px;
+  position: relative;
+  padding-left: 15px;
+}
+
+/* .sbCardBody {
+  color: #031b4e;
+  line-height: 30px;
+  font-size: 15px;
+  padding: 5px 0px 0px 5px;
+} */

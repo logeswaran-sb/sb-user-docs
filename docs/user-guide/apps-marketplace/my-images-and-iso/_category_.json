@@ -1,0 +1,10 @@
+{
+    "position": 4,
+    "label": "My Images and ISO",
+    "collapsible": true,
+    "collapsed": true,
+    "link": {
+      "type": "generated-index",
+      "title": "My Images and ISO"
+    }
+}

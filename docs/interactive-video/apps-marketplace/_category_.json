@@ -1,0 +1,10 @@
+{
+    "position": 11,
+    "label": "Apps Marketplace",
+    "collapsible": true,
+    "collapsed": true,
+    "link": {
+      "type": "generated-index",
+      "title": "Apps Marketplace"
+    }
+}

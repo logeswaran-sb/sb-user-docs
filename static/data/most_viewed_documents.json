@@ -1,0 +1,42 @@
+[
+    {
+        "text": "How to create Instance",
+        "link": "docs/category/instance"
+    },
+    {
+        "text": "APPS - Marketplace",
+        "link": "docs/category/apps-marketplace"
+    },
+    {
+        "text": "How to create kubernetes cluster",
+        "link": "docs/user-guide/kubernetes/kubernetes-cluster-creation"
+    },
+    {
+        "text": "How to enable monitoring",
+        "link": "docs/user-guide/advanced-monitoring/enabling-advanced-monitoring-for-windows-vm"
+    },
+    {
+        "text": "Cloud Billing Solution",
+        "link": "docs/category/billing"
+    },
+    {
+        "text": "SSH Key Manager",
+        "link": "docs/category/ssh-key-manager"
+    },
+    {
+        "text": "Bundle Offering",
+        "link": "docs/user-guide/instance/bundle-instance"
+    },
+    {
+        "text": "Network & Firewall",
+        "link": "/docs/category/network"
+    },
+    {
+        "text": "Autoscaling",
+        "link": "docs/category/native-autoscale"
+    },
+    {
+        "text": "Monitoring",
+        "link": "docs/category/network"
+    }
+]
